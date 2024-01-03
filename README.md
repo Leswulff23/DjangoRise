@@ -1,12 +1,6 @@
 # DjangoRise
 ## Building Django Rest Api
 
-# Features
-* Full featured shopping cart
-* Product reviews and ratings
-* Top products carousel
-* Product pagination
-
 
 # Download & Setup Instructions
 
